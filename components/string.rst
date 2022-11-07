@@ -21,7 +21,7 @@ What is a String?
 -----------------
 
 You can skip this section if you already know what a *"code point"* or a
-*"grapheme cluster"* are in the context of handling strings. Otherwise, read
+*"grapheme cluster"* are in the context of handling strings. Otherwise read
 this section to learn about the terminology used by this component.
 
 Languages like English require a very limited set of characters and symbols to
